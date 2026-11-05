@@ -1,4 +1,4 @@
-name = "oneip"
+name = "one-ip"
 main = "worker/index.js"
 compatibility_date = "2026-09-09"
 compatibility_flags = ["nodejs_compat"]
