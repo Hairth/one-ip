@@ -16,7 +16,7 @@
 
 默认地图无需注册或 API Key。OpenStreetMap 公共瓦片须遵守[使用政策](https://operations.osmfoundation.org/policies/tiles/)，保留地图署名、按需加载并使用浏览器缓存，不提供离线下载或批量预取；公共服务不保证可用性。瓦片请求仅发送本站 origin 作为 Referer，不包含查询 IP 的页面路径。地图加载失败时可单独重试，位置文字和坐标仍可查看。
 
-Workers Builds 会在 `main` 收到提交时构建和部署。上方按钮使用原项目地址；需要保留 Fork 关系和更新工作流时，请按教程导入你的 Fork。
+Workers Builds 会在 `main` 收到提交时构建和部署。README 的一键部署按钮会新建一个独立仓库；需要保留 Fork 关系和更新工作流时，请按教程导入你的 Fork。
 
 ## Cloudflare Pages 部署
 

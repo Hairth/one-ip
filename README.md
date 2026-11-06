@@ -32,7 +32,7 @@ IP 查询、网络诊断、浏览器检测与 AI 服务状态工具箱。
 
 一键部署到 Cloudflare：
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Fzhihui-hu%2Fone-ip)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2FHairth%2Fone-ip)
 
 或 Fork 后在 Cloudflare **Workers & Pages** 导入仓库，构建命令 `pnpm build`，部署命令 `pnpm deploy`。基础功能无需任何 API Key。
 

@@ -16,7 +16,7 @@ For map access from mainland China, configure `TIANDITU_TOKEN` under Worker → 
 
 The default map requires no account or API key. OpenStreetMap's public tiles are subject to its [usage policy](https://operations.osmfoundation.org/policies/tiles/): keep attribution visible, load tiles on demand, respect browser caching, and do not offer offline downloads or bulk prefetching. Availability is not guaranteed. Tile requests send only this site's origin as the Referer, excluding page paths containing queried IPs. Failed maps can be retried independently while location text and coordinates remain available.
 
-Workers Builds builds and deploys when `main` receives a commit. The button above points to the original repository. To preserve the fork relationship and update workflow, follow the steps to import your fork.
+Workers Builds builds and deploys when `main` receives a commit. The deploy button in the README creates a separate repository. To preserve the fork relationship and update workflow, follow the steps to import your fork.
 
 ## Cloudflare Pages deployment
 
